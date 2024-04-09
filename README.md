@@ -6,7 +6,7 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 1. Anaconda - Python 3.7
 2. OpenCV
 
-## Algorithm
+## Algorith:
 
 ### Step1:
 <br>
